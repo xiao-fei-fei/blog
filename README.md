@@ -1,3 +1,3 @@
 # blog
-This is my first commit.
-## This is my second commit.
+
+## 打算以后开始同步这里的博客内容.
